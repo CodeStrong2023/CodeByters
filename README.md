@@ -1,2 +1,5 @@
 # CodeByters
-Alumnos de la tecnicatura universitaria en programación UTN FRSR
+Alumnos de la Tecnicatura Universitaria en Programación UTN FRSR
+Integrantes:
+*José Luis Mayorga - 9528
+*Sofía Aguirre Zelay - 9159
